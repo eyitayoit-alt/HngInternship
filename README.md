@@ -1,4 +1,12 @@
 # HngInternship
-# The application is a guide on my Slack name and Profile picture
-# It also has a button that when clicked it navigates to my Github profile
-# The application makes use of the webview_flutter package that enables one to display webpages within the application
+
+#Design Preview
+
+
+# Plugin Used
+webview_flutter
+
+# Setting it Up
+pull the sourcecode from the github repo to your preferred IDE and execute the flutter pub to get all the application plugins
+Run the application on your emulator and/or your mobile hadset 
+# 
